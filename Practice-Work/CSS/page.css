@@ -1,3 +1,10 @@
 .start {
     color: red;
+    background-color: lightblue;
+}
+
+    
+.design {
+    background-color: yellow;
+    text-align: center;
 }
